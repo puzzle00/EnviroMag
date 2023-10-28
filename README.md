@@ -1,2 +1,2 @@
 # EnviroMag
-Enviro Magazine Framework
+## Enviro Magazine Framework
