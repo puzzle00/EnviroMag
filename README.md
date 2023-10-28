@@ -1,0 +1,2 @@
+# EnviroMag
+Enviro Magazine Framework
